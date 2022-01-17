@@ -112,8 +112,8 @@ You should create a settings file in the root of your project. I'm using
 *./settings.yaml:*
 
 ```yaml
-SiteTitle: My Blog Title
-Copyright: Copyright © Year(s) Your Name
+SiteTitle: nullforce
+Copyright: Copyright © 2022 nullforce. All rights reserved.
 
 GenerateSearchIndex: true
 LinksUseHttps: true

@@ -1,4 +1,4 @@
-Title: An Improved YouTube Shortcode
+Title: An Improved YouTube Shortcode for Statiq
 Published: 01/14/2022 21:10
 Tags:
   - statiq
@@ -93,7 +93,7 @@ up with an `iframe` that looks like:
 <iframe ... />
 ```
 
-when we want a properly terminated element that doesn't "eat" everything that
+When we want a properly terminated element that doesn't "eat" everything that
 follows it, like this:
 
 ```html
