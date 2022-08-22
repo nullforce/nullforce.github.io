@@ -284,6 +284,7 @@ DSharpPlus:
 - Good docs on the website, but not as well organized
 - Easy setup
 - Much less boilerplate than Discord.Net
+- Automatically generates a help command
 
 [DiscordDeveloperDocs]: https://discord.com/developers/docs/intro
 [DiscordNetGitHub]: https://github.com/discord-net/Discord.Net
