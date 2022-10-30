@@ -8,7 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Statiq.Web" Version="1.0.0-beta.40" />
+    <PackageReference Include="Statiq.Web" Version="1.0.0-beta.49" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Update="Microsoft.Build" Version="17.3.2" />
   </ItemGroup>
 
 </Project>
