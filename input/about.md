@@ -14,6 +14,8 @@ based on [CleanBlog](https://github.com/statiqdev/CleanBlog).
 
 <hr class="dark" />
  <div class="text-center">
-    <a href="https://twitter.com/NullforceGlenn" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
     <a href="https://github.com/nullforce" target="_blank"><i class="fab fa-github" aria-hidden="true"></i></a>
+    <a href="https://pony.social/@nullforce" target="_blank"><i class="fab fa-mastodon" aria-hidden="true"></i></a>
+    <a href="https://twitch.tv/nullforce" target="_blank"><i class="fab fa-twitch" aria-hidden="true"></i></a>
+    <a href="https://twitter.com/NullforceGlenn" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 </div>
