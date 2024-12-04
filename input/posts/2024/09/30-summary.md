@@ -3,7 +3,12 @@ Published: 09/30/2024
 IsPost: true
 Tags:
   - Akka.NET
+  - CQRS
+  - Git
+  - GitHub Tricks
+  - Marten
   - Visual Studio Blog
+  - Wolverine
 Categories:
   - Links of the Day
 ---
@@ -20,3 +25,16 @@ Categories:
 - [Akka.NET Actors' Hidden Super Power: Behavior Switching](https://petabridge.com/blog/akka-actor-behavior-switching/) - Aaron Stannard
 - [Working with tar files in .NET 8](https://andrewlock.net/working-with-tar-files-in-dotnet/) - Andrew Lock
 - [Preventing breaking changes in public APIs with PublicApiGenerator](https://andrewlock.net/preventing-breaking-changes-in-public-apis-with-publicapigenerator/) - Andrew Lock
+- [Getting the ASP.NET Core Server Hosting Urls at Startup and in Requests](https://weblog.west-wind.com/posts/2024/Sep/03/Getting-the-ASPNET-Core-Server-Hosting-Urls-at-Startup-and-in-Requests) - Rick Strahl
+- [GitHub trick to find the commit that deleted a file](https://devblogs.microsoft.com/oldnewthing/20240909-00/?p=110234) - Raymond Chen
+- [Cycle Time](https://martinfowler.com/bliki/CycleTime.html) - Martin Fowler
+- [Governing data products using fitness functions](https://martinfowler.com/articles/fitness-functions-data-products.html) - Kiran Prakash
+- [What I use for interacting with Git](https://jeremydmiller.com/2024/09/01/what-i-use-for-interacting-with-git/) - Jeremy D. Miller
+- [Wolverine’s New Message Batching](https://jeremydmiller.com/2024/09/03/wolverines-new-message-batching/) - Jeremy D. Miller
+- [CQRS Command Handlers with Marten](https://jeremydmiller.com/2024/09/09/cqrs-command-handlers-with-marten/) - Jeremy D. Miller
+- [Multi-Tenancy in Wolverine Messaging](https://jeremydmiller.com/2024/09/22/multi-tenancy-in-wolverine-messaging/) - Jeremy D. Miller
+- [Improved Command Line Tooling with Oakton](https://jeremydmiller.com/2024/09/23/improved-command-line-tooling-with-oakton/) - Jeremy D. Miller
+- [Critter Stack 2025](https://jeremydmiller.com/2024/09/25/critter-stack-2025/) - Jeremy D. Miller
+- [My Recommendations for a Test Automation Strategy](https://jeremydmiller.com/2024/09/29/my-recommendations-for-a-test-automation-strategy/) - Jeremy D. Miller
+- [Scaling Event Projections and Subscriptions with the Critter Stack](https://jeremydmiller.com/2024/09/30/scaling-event-projections-and-subscriptions-with-the-critter-stack/) - Jeremy D. Miller
+- [Today was all about this whole idea of how we index and track data breaches](https://www.troyhunt.com/weekly-update-417/) - Troy Hunt

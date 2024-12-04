@@ -4,6 +4,7 @@ IsPost: true
 Tags:
   - CORS
   - Visual Studio Blog
+  - WPF
 Categories:
   - Links of the Day
 ---
@@ -23,5 +24,15 @@ I'm excited for the release of .NET 9 this month!
 - [Debugger and Diagnostics updates in Visual Studio 17.12](https://devblogs.microsoft.com/visualstudio/debugger-and-diagnostics-updates-in-visual-studio-17-12/) - Harshada Hole
 
 ## Information
+
 - [Understanding cross-origin security headers - Part 1](https://andrewlock.net/understanding-security-headers-part-1-cross-origin-opener-policy-preventing-attacks-from-popups/) - Andrew Lock
 - [Understanding cross-origin security headers - Part 2](https://andrewlock.net/understanding-security-headers-part-2-cross-origin-resource-policy-preventing-hotlinking/) - Andrew Lock
+- [Getting the Current TabItem when the Tab is not selected in WPF](https://weblog.west-wind.com/posts/2024/Nov/08/Getting-the-Current-TabItem-when-the-Tab-is-not-selected-in-WPF) - Rick Strahl
+- [Debugger breakpoints are usually implemented by patching the in-memory copy of the code](https://devblogs.microsoft.com/oldnewthing/20241111-00/?p=110503) - Raymond Chen
+- [Checking whether a URI refers to a Web site root](https://devblogs.microsoft.com/oldnewthing/20241127-00/?p=110582) - Raymond Chen
+- [Using the Strangler Fig with Mobile Apps](https://martinfowler.com/articles/strangler-fig-mobile-apps.html) - Matthew Foster, John Mikel Amiel Regida
+- [Exploring Generative AI](https://martinfowler.com/articles/exploring-gen-ai.html) - Birgitta Böckeler
+- [Network Round Trips are Evil, So Batch Your Queries When You Can](https://jeremydmiller.com/2024/11/03/network-round-trips-are-evil-so-batch-your-queries-when-you-can/) - Jeremy D. Miller
+- [nside the DemandScience by Pure Incubation Data Breach](https://www.troyhunt.com/inside-the-demandscience-by-pure-incubation-data-breach/) - Troy Hunt
+- [I have absolutely no problem at all talking about the code I've screwed up](https://www.troyhunt.com/weekly-update-426/) - Troy Hunt
+- [Closer to the Edge: Hyperscaling Have I Been Pwned with Cloudflare Workers and Caching](https://www.troyhunt.com/closer-to-the-edge-hyperscaling-have-i-been-pwned-with-cloudflare-workers-and-caching/) - Troy Hunt

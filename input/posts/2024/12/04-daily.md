@@ -15,3 +15,5 @@ Categories:
 ## Information
 
 - [Understanding cross-origin security headers - Part 3](https://andrewlock.net/understanding-security-headers-part-3-cross-origin-embedder-policy/) - Andrew Lock
+- [Message Broker per Tenant with Wolverine](https://jeremydmiller.com/2024/12/02/message-broker-per-tenant-with-wolverine/) - Jeremy D. Miller
+- [Specification Usage with Marten for Repository-Free Development](https://jeremydmiller.com/2024/12/03/specification-usage-with-marten-for-repository-free-development/) - Jeremy D. Miller
