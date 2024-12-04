@@ -51,6 +51,25 @@
 		],
 		"description": "Statiq blog post"
 	},
+	"Statiq Links of the Day"{
+		"scope": "markdown",
+		"prefix": "statiq-links-of-the-day",
+		"body": [
+			"Title: Links of the Day",
+			"Published: $CURRENT_MONTH/$CURRENT_DATE/$CURRENT_YEAR",
+			"IsPost: true",
+			"Tags:",
+			"  - ${1:exampletag}",
+			"Categories:",
+			"  - Links of the Day",
+			"---",
+			"# Links of the Day",
+			"",
+			"Summary",
+			"- [Link 1](https://example.com)"
+		],
+		"description": "Statiq links of the day"
+	},
 	"Figure with Width": {
 		"scope": "markdown",
 		"prefix": "figure",
@@ -58,5 +77,13 @@
 			"<?# Figure ${1:url} MaxWidth=${2:600} /?>"
 		],
 		"description": "Figure shortcode with width"
+	},
+	"Figure with Width and Description": {
+		"scope": "markdown",
+		"prefix": "figure-desc",
+		"body": [
+			"<?# Figure ${1:url} MaxWidth=${2:600} ?>${3:description}<?#/ Figure ?>"
+		],
+		"description": "Figure shortcode with width and description"
 	}
 }
