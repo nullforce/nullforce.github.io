@@ -1,5 +1,5 @@
-SiteTitle: nullforce
-Copyright: Copyright © 2022 nullforce. All rights reserved.
+SiteTitle: Hi! I'm nullforce
+Copyright: Copyright © 2022-2024 nullforce. All rights reserved.
 
 GenerateSearchIndex: true
 LinksUseHttps: true
@@ -7,4 +7,4 @@ Image: ./images/site-image.png
 
 GitHubOwner: nullforce
 GitHubName: nullforce.github.io
-GitHubToken: "=> Config.FromSetting<string>(\"GITHUB_TOKEN\")"
+GitHubToken: '=> Config.FromSetting<string>("GITHUB_TOKEN")'

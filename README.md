@@ -8,7 +8,7 @@ repository at `nullforce/nullforce.github.io`.
 
 ## Made With
 
-- .NET 6.0
+- .NET 9.0
 - [Statiq](https://www.statiq.dev/)
 - [CleanBlog Theme](https://github.com/statiqdev/CleanBlog)
 
@@ -26,4 +26,13 @@ Locally, a deployment can be done by running:
 
 ```powershell
 dotnet run -- deploy
+```
+
+### Cloning
+
+Clone the repository as usual, then fetch the submodules with:
+
+```powershell
+git submodule init
+git submodule update
 ```

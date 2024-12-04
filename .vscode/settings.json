@@ -1,0 +1,14 @@
+{
+    "razor.format.enable": false,
+    "editor.formatOnSave": false,
+    "files.exclude": {
+        "bin/": true,
+        "cache/": true,
+        "obj/": true,
+        "output/": true,
+        "temp/": true,
+        "**/.git": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    }
+}
