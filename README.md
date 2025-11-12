@@ -8,7 +8,7 @@ repository at `nullforce/nullforce.github.io`.
 
 ## Made With
 
-- .NET 9.0
+- .NET 10.0
 - [Statiq](https://www.statiq.dev/)
 - [CleanBlog Theme](https://github.com/statiqdev/CleanBlog)
 

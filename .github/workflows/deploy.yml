@@ -23,7 +23,7 @@ jobs:
     steps:
     - uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: '9.x'
+        dotnet-version: '10.x'
     - uses: actions/checkout@main
       with:
         submodules: recursive
